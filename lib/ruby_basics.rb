@@ -11,7 +11,7 @@ def argue(phrase)
 end
 
 def greeting(greetings, name)
-
+# blank
 end
 
 def return_a_value(phrase)
